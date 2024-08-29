@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B424C8F2F7D22D45F5CA5B43A084C734",
+  "keywordClasses": [
+    {
+      "name": "com.maybank.baseutil.ApplicationInitializer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

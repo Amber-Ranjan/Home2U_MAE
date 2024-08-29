@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6C5C3F6567BC775D1AC5A9D61CDEB3A1",
+  "keywordClasses": [
+    {
+      "name": "com.maybank.baseutil.GenericMbbMobileUtil",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
